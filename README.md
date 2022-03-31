@@ -1,3 +1,3 @@
 # EDA_test
-У файлі Exploratory Data analysis.ipynb здійснюється EDA для маркетингових даних df_food.csv, наданих в тестовому завданні.  
+У файлі *Exploratory Data analysis.ipynb* здійснюється EDA для маркетингових даних *df_food.csv*, наданих в тестовому завданні.  
 Візуалізація даних в тому ж файлі за допомогою різних бібліотек Python. 
